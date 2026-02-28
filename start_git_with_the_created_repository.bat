@@ -2,6 +2,8 @@
 :: Set white text on black background
 color 07
 
+cd /d "%~dp0"
+
 :: Set your GitHub repository URL here
 set REPO_URL=https://github.com/Raviiik/test.git
 
